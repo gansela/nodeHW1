@@ -1,0 +1,11 @@
+{
+  "name": "apenedtxt",
+  "version": "1.0.0",
+  "description": "append strings to txt file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gan Sela",
+  "license": "ISC"
+}
